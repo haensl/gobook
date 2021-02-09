@@ -8,8 +8,7 @@ workflows:
 
 jobs:
   lint:
-    docker: # run the steps with Docker
-      # CircleCI Go images available at: https://hub.docker.com/r/circleci/golang/
+    docker:
       - image: circleci/golang:latest
     steps:
       - checkout
