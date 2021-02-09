@@ -1,3 +1,6 @@
+## 1.3.0
+* Add third echo iteration.
+
 ## 1.2.0
 * Add second echo iteration.
 
