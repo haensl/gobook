@@ -1,5 +1,5 @@
 # gobook
-Sources pertaining to "The Go Programming Language", by Donovan and Kernighan.
+Sources pertaining to ["The Go Programming Language"](https://gopl.io), by Donovan and Kernighan.
 
 ## [Changelog](CHANGELOG.md)
 

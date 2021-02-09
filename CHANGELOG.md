@@ -1,3 +1,7 @@
+## 1.6.0
+* Add third dup iteration.
+* Add CI lint.
+
 ## 1.5.0
 * Add second dup iteration.
 
