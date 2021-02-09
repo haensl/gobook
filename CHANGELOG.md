@@ -1,3 +1,6 @@
+## 1.5.0
+* Add second dup iteration.
+
 ## 1.4.0
 * Add first dup iteration.
 
