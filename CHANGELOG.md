@@ -1,3 +1,6 @@
+## 1.4.0
+* Add first dup iteration.
+
 ## 1.3.0
 * Add third echo iteration.
 
