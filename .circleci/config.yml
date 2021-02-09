@@ -1,0 +1,20 @@
+version: 2.1
+workflows:
+  version: 2
+  default:
+    when: always
+    jobs:
+      - lint
+
+jobs:
+  lint:
+    docker:
+      - image: circleci/golang:latest
+    steps:
+      - checkout
+      - run:
+          name: Get Golint
+          command: go get -u golang.org/x/lint/golint
+      - run:
+          name: Lint project files
+          command: golint ./...
