@@ -1,3 +1,6 @@
+## 1.12.0
+* Add lissajous server.
+
 ## 1.11.0
 * Add request inspection server.
 
