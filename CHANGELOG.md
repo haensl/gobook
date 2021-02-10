@@ -1,8 +1,11 @@
 ## 1.11.0
-* Add second server.
+* Add request inspection server.
+
+## 1.11.0
+* Add request count server.
 
 ## 1.10.0
-* Add first server.
+* Add path echo server.
 
 ## 1.9.0
 * Add fetchall.
