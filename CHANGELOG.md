@@ -1,3 +1,6 @@
+## 1.8.0
+* Add fetch.
+
 ## 1.7.0
 * Add lissajous gif creator.
 * Add Go module.
