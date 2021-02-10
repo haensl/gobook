@@ -1,3 +1,7 @@
+## 1.7.0
+* Add lissajous gif creator.
+* Add Go module.
+
 ## 1.6.0
 * Add third dup iteration.
 * Add CI lint.
