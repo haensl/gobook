@@ -1,3 +1,6 @@
+## 1.11.0
+* Add second server.
+
 ## 1.10.0
 * Add first server.
 
