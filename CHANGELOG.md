@@ -1,3 +1,6 @@
+## 1.10.0
+* Add first server.
+
 ## 1.9.0
 * Add fetchall.
 
