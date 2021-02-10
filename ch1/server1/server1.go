@@ -1,3 +1,4 @@
+// server1 echos back the request path
 package main
 
 import (
