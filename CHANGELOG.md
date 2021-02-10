@@ -1,3 +1,6 @@
+## 1.9.0
+* Add fetchall.
+
 ## 1.8.0
 * Add fetch.
 
