@@ -1,3 +1,6 @@
+## 1.16.0
+* Add temperature converter.
+
 ## 1.15.0
 * Add temperature conversion package.
 
