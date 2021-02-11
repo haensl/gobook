@@ -1,3 +1,6 @@
+## 1.17.0
+* Add population counter.
+
 ## 1.16.0
 * Add temperature converter.
 
