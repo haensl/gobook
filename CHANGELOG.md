@@ -1,3 +1,6 @@
+## 1.27.0
+* Add dedup.
+
 ## 1.26.1
 * Allow for variadic arguments to int slice append.
 
