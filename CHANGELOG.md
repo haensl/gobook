@@ -1,5 +1,8 @@
+## 1.26.1
+* Allow for variadic arguments to int slice append.
+
 ## 1.26.0
-* Add slice append.
+* Add int slice append.
 
 ## 1.26.0
 * Add slice reversal.
