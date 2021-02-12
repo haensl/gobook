@@ -1,3 +1,6 @@
+## 1.19.0
+* Add mandelbrot plotter and server.
+
 ## 1.18.0
 * Add surface plotter and server.
 
