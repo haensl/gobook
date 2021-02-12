@@ -1,3 +1,6 @@
+## 1.20.0
+* Add first basename iteration.
+
 ## 1.19.0
 * Add mandelbrot plotter and server.
 
