@@ -1,3 +1,6 @@
+## 1.26.0
+* Add slice reversal.
+
 ## 1.25.0
 * Add sha256.
 
