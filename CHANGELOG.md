@@ -1,3 +1,6 @@
+## 1.18.0
+* Add surface plotter.
+
 ## 1.17.0
 * Add population counter.
 
