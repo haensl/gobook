@@ -1,3 +1,7 @@
+## 1.33.0
+* Add github API package.
+* Add github issues fetcher.
+
 ## 1.32.0
 * Add JSON un/marshalling example: movie list.
 
