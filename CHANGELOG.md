@@ -1,3 +1,6 @@
+## 1.28.0
+* Add charcount.
+
 ## 1.27.0
 * Add dedup.
 
