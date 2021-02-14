@@ -1,3 +1,6 @@
+## 1.32.0
+* Add JSON un/marshalling example: movie list.
+
 ## 1.31.0
 * Add embedded struct example.
 
