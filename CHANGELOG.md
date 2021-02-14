@@ -1,3 +1,6 @@
+## 1.29.0
+* Add graph.
+
 ## 1.28.0
 * Add charcount.
 
