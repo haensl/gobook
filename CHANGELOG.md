@@ -1,3 +1,6 @@
+## 1.30.0
+* Add binary tree sort.
+
 ## 1.29.0
 * Add graph.
 
