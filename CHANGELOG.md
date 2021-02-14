@@ -1,3 +1,6 @@
+## 1.31.0
+* Add embedded struct example.
+
 ## 1.30.0
 * Add binary tree sort.
 
