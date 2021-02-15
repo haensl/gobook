@@ -1,3 +1,6 @@
+## 1.45.0
+* Add second iteration of title fetcher.
+
 ## 1.44.0
 * Add title fetcher.
 * Move `forEachNode` to `nodes` package.
