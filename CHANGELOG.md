@@ -1,3 +1,6 @@
+## 1.51.0
+* Add `Path` type to geometry package.
+
 ## 1.50.0
 * Add geometry package.
 
