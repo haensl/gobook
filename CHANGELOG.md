@@ -1,3 +1,6 @@
+## 1.42.0
+* Add third iteration of link finder.
+
 ## 1.41.0
 * Add links package.
 
