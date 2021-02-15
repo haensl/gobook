@@ -1,3 +1,6 @@
+## 1.50.0
+* Add geometry package.
+
 ## 1.49.0
 * Add third iteration of title fetcher.
 
