@@ -1,4 +1,7 @@
 ## 1.45.0
+* Add trace.
+
+## 1.45.0
 * Add second iteration of title fetcher.
 
 ## 1.44.0
