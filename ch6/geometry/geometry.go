@@ -14,3 +14,15 @@ func Distance(p, q Point) float64 {
 func (p Point) Distance(q Point) float64 {
 	return Distance(p, q)
 }
+
+type Path []Point
+
+func (p Path) Distance() float64 {
+	var dist float64
+	for i := range p {
+		if i > 0 {
+			dist += p[i-1].Distance(p[i])
+		}
+	}
+	return dist
+}
