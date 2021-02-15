@@ -1,3 +1,6 @@
+## 1.35.0
+* Add first iteration of linkfinder.
+
 ## 1.34.0
 * Add issues report template.
 
