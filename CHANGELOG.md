@@ -1,3 +1,7 @@
+## 1.38.0
+* Add server retry functionality.
+* Move linkfinder iterations to fifth chapter.
+
 ## 1.37.0
 * Add second iteration of linkfinder.
 
