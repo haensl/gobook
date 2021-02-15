@@ -1,3 +1,7 @@
+## 1.39.0
+* Add second iteration of outline.
+* Move outline to fifth chapter.
+
 ## 1.38.0
 * Add server retry functionality.
 * Move linkfinder iterations to fifth chapter.
