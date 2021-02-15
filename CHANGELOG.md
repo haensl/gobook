@@ -1,3 +1,6 @@
+## 1.49.0
+* Add third iteration of title fetcher.
+
 ## 1.48.0
 * Add defer iterations to demonstrate panics.
 
