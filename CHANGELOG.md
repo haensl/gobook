@@ -1,4 +1,7 @@
-## 1.40.
+## 1.41.0
+* Add links package.
+
+## 1.40.0
 * Add topological sorting.
 
 ## 1.39.0
