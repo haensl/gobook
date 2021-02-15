@@ -1,3 +1,6 @@
+## 1.43.0
+* Add variadic sum.
+
 ## 1.42.0
 * Add third iteration of link finder.
 
