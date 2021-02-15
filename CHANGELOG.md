@@ -1,4 +1,7 @@
-## 1.45.0
+## 1.47.0
+* Add second iteration of fetch.
+
+## 1.46.0
 * Add trace.
 
 ## 1.45.0
