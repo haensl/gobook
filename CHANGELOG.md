@@ -1,3 +1,6 @@
+## 1.48.0
+* Add defer iterations to demonstrate panics.
+
 ## 1.47.0
 * Add second iteration of fetch.
 
