@@ -1,3 +1,6 @@
+## 1.40.
+* Add topological sorting.
+
 ## 1.39.0
 * Add squares.
 
