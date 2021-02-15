@@ -1,3 +1,6 @@
+## 1.37.0
+* Add second iteration of linkfinder.
+
 ## 1.36.0
 * Add HTML outline printer.
 
