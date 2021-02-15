@@ -1,3 +1,6 @@
+## 1.34.0
+* Add issues report template.
+
 ## 1.33.0
 * Add github API package.
 * Add github issues fetcher.
