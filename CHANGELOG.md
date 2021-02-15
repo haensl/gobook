@@ -1,3 +1,7 @@
+## 1.44.0
+* Add title fetcher.
+* Move `forEachNode` to `nodes` package.
+
 ## 1.43.0
 * Add variadic sum.
 
