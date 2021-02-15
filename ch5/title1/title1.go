@@ -39,8 +39,9 @@ func title(url string) error {
 }
 
 func main() {
-	for _, url := range os.Args[:1] {
+	for _, url := range os.Args[1:] {
 		fmt.Printf("%s\t", url)
 		title(url)
+		fmt.Println()
 	}
 }
