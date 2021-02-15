@@ -13,7 +13,7 @@ import (
 func title(url string) error {
 	res, err := http.Get(url)
 	if err != nil {
-		return nil, err
+		return err
 	}
 
 	ct := res.Header.Get("Content-Type")
@@ -31,7 +31,7 @@ func title(url string) error {
 	visitNode := func(n *html.Node) {
 		if n.Type == html.ElementNode && n.Data == "title" &&
 			n.FirstChild != nil {
-			fmt.Println(n.FirstChild.Data)
+			fmt.Printf(n.FirstChild.Data)
 		}
 	}
 	nodes.ForEachNode(doc, visitNode, nil)
@@ -39,5 +39,8 @@ func title(url string) error {
 }
 
 func main() {
-	title(os.Args[:1])
+	for _, url := range os.Args[:1] {
+		fmt.Printf("%s\t", url)
+		title(url)
+	}
 }
