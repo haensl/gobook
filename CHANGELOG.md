@@ -1,4 +1,7 @@
 ## 1.39.0
+* Add squares.
+
+## 1.39.0
 * Add second iteration of outline.
 * Move outline to fifth chapter.
 
