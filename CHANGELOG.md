@@ -1,3 +1,6 @@
+## 1.53.0
+* Add `IntSet` - a set of small non-negative integers.
+
 ## 1.52.0
 * Add `ColoredPoint` type.
 
