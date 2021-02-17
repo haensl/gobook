@@ -1,3 +1,6 @@
+## 1.52.0
+* Add `ColoredPoint` type.
+
 ## 1.51.0
 * Add `Path` type to geometry package.
 
