@@ -1,3 +1,6 @@
+## 1.54.0
+* Add `ByteCounter` type.
+
 ## 1.53.0
 * Add `IntSet` - a set of small non-negative integers.
 
