@@ -1,5 +1,5 @@
 ## 1.55.0
-* Add `sleep` type.
+* Add `sleep`.
 
 ## 1.54.0
 * Add `ByteCounter` type.
