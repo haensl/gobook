@@ -1,3 +1,6 @@
+## 1.59.0
+* Add arithmetic expression evaluator.
+
 ## 1.58.0
 * Add HTTP server examples.
 
