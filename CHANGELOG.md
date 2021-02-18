@@ -1,3 +1,6 @@
+## 1.57.0
+* Add sorting example.
+
 ## 1.56.0
 * Add temperature conversion flag.
 
