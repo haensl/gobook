@@ -1,3 +1,6 @@
+## 1.56.0
+* Add temperature conversion flag.
+
 ## 1.55.0
 * Add `sleep`.
 
