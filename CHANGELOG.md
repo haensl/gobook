@@ -1,3 +1,6 @@
+## 1.68.0
+* Add squaring pipeline limited to first 100 natural numbers.
+
 ## 1.67.0
 * Add squaring pipeline.
 
