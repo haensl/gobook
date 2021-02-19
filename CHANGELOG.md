@@ -1,3 +1,6 @@
+## 1.60.0
+* Add surface plotting web server.
+
 ## 1.59.0
 * Add arithmetic expression evaluator.
 
