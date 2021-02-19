@@ -1,3 +1,6 @@
+## 1.66.0
+* Add netcat with channel.
+
 ## 1.65.0
 * Add reverb server.
 
