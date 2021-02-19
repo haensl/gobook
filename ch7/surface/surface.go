@@ -59,7 +59,6 @@ const (
 
 var sin30, cos30 = math.Sin(angle), math.Cos(angle)
 
-// Surface generates an SVG surface plot
 func surface(out io.Writer, f func(x, y float64) float64) {
 	fmt.Fprintf(out, "<svg xmlns='http://www.w3.org/2000/svg' "+
 		"style='stroke: grey; fill: white; stroke-width: 0.7' "+
