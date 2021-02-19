@@ -1,3 +1,6 @@
+## 1.63.0
+* Add sequential time server.
+
 ## 1.62.0
 * Add first goroutine example: fibonacci with calculation spinner.
 
