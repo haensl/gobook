@@ -1,3 +1,6 @@
+## 1.67.0
+* Add squaring pipeline.
+
 ## 1.66.0
 * Add netcat with channel.
 
