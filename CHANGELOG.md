@@ -1,3 +1,6 @@
+## 1.64.0
+* Add parallel time server.
+
 ## 1.63.0
 * Add sequential time server.
 
