@@ -1,3 +1,6 @@
+## 1.61.0
+* Add xmlselect.
+
 ## 1.60.0
 * Add surface plotting web server.
 
