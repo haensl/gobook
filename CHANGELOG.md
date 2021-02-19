@@ -1,3 +1,6 @@
+## 1.62.0
+* Add first goroutine example: fibonacci with calculation spinner.
+
 ## 1.61.0
 * Add xmlselect.
 
