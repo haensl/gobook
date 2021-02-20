@@ -1,3 +1,6 @@
+## 1.71.0
+* Add multiplexing disk space computation example.
+
 ## 1.70.0
 * Add multiplexing countdown example.
 
