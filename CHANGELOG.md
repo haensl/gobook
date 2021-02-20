@@ -1,3 +1,6 @@
+## 1.70.0
+* Add multiplexing countdown example.
+
 ## 1.69.0
 * Add unidirectional squaring pipeline limited to first 100 natural numbers.
 
