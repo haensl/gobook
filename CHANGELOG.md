@@ -1,3 +1,6 @@
+## 1.74.0
+* Add shared variable bank examples.
+
 ## 1.73.0
 * Add chat server.
 
