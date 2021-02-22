@@ -1,3 +1,6 @@
+## 1.76.0
+* Add test example: palindrome checker.
+
 ## 1.75.0
 * Add mutex based function memoization cache.
 
