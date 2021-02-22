@@ -1,3 +1,6 @@
+## 1.75.0
+* Add mutex based function memoization cache.
+
 ## 1.74.0
 * Add shared variable bank examples.
 
