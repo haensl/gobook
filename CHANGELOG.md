@@ -1,3 +1,6 @@
+## 1.78.0
+* Add reflection example: formatter.
+
 ## 1.77.0
 * Add tests for charcount
 
