@@ -1,3 +1,6 @@
+## 1.77.0
+* Add tests for charcount
+
 ## 1.76.0
 * Add test example: palindrome checker.
 
